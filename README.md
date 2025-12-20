@@ -7,3 +7,4 @@
 - [Staring into the abyss as a core life skill](https://www.benkuhn.net/abyss/): Advocates for thinking about uncomfortable thoughts, thereby forcing ourselves to make difficult decisions that ultimately benefit us.
 - [To listen well, get curious](https://www.benkuhn.net/listen/): Clarifies on common advice about being a good listener by re-inforcing that the primary thing to focus on is being curious about the person you're listening to and their experience.
 - [Some mistakes I made as a new manager](https://www.benkuhn.net/newmgr/): Advice for people just getting into a management role. Also indirectly provides guidance on the mentality to have towards your co-workers.
+- [Why and how to write things on the Internet](https://www.benkuhn.net/writing/): Encouragement to start writing blog posts.
