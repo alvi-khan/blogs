@@ -9,3 +9,5 @@
 - [Why and how to write things on the Internet](https://www.benkuhn.net/writing/): Encouragement to start writing blog posts.
 - [Blameful Post-Mortems](https://staysaasy.com/saas/2025/03/11/blameful.html): Discusses the nuances of a blameless culture and how to maintain balance between unfair punishments and lack of accountability.
 - [Your Manager Is Not Your Best Friend](https://staysaasy.com/management/2025/06/01/your-manager-is-not-your-best-friend.html): Warns of the harms of complaining publicly about colleagues and gives advice to managers on how to handle complaints from reports.
+- [A Practical Guide to Executive Presence](https://staysaasy.com/leadership/2023/05/27/executive-presence.html): A guide to commanding attention from your peers.
+- [Writing Performance Reviews 101](https://staysaasy.com/management/2020/04/22/Writing-Performance-Reviews-101.html)
