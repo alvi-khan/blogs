@@ -11,3 +11,4 @@
 - [Your Manager Is Not Your Best Friend](https://staysaasy.com/management/2025/06/01/your-manager-is-not-your-best-friend.html): Warns of the harms of complaining publicly about colleagues and gives advice to managers on how to handle complaints from reports.
 - [A Practical Guide to Executive Presence](https://staysaasy.com/leadership/2023/05/27/executive-presence.html): A guide to commanding attention from your peers.
 - [Writing Performance Reviews 101](https://staysaasy.com/management/2020/04/22/Writing-Performance-Reviews-101.html)
+- [Collaboration sucks](https://newsletter.posthog.com/p/collaboration-sucks): A warning against over-collaboration.
