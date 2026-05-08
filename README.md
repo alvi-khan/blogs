@@ -12,3 +12,4 @@
 - [A Practical Guide to Executive Presence](https://staysaasy.com/leadership/2023/05/27/executive-presence.html): A guide to commanding attention from your peers.
 - [Writing Performance Reviews 101](https://staysaasy.com/management/2020/04/22/Writing-Performance-Reviews-101.html)
 - [Collaboration sucks](https://newsletter.posthog.com/p/collaboration-sucks): A warning against over-collaboration.
+- [Networking For People Who Don't Network](https://staysaasy.com/networking/2024/12/11/networking-for-people-who-dont-network.html): Practical steps on how to network for people who hate networking.
