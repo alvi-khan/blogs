@@ -14,3 +14,4 @@
 - [Collaboration sucks](https://newsletter.posthog.com/p/collaboration-sucks): A warning against over-collaboration.
 - [Networking For People Who Don't Network](https://staysaasy.com/networking/2024/12/11/networking-for-people-who-dont-network.html): Practical steps on how to network for people who hate networking.
 - [If you want to enjoy it, you have to be good at it](https://www.thetinywisdom.com/p/if-you-want-to-enjoy-it-you-have): Encourages simply pushing through the first phase of any new activity where it isn't enjoyable, with the reasoning that it will only become enjoyable once you're good at it.
+- [The economic case for being an asshole](https://yourbrainonmoney.substack.com/p/the-economic-case-for-being-an-asshole): An analysis on how the society we live in pushes us towards being assholes.
